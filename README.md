@@ -1,1 +1,2 @@
-# C-Algorithms
+# Mixed stuff
+dig if you dare
